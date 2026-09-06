@@ -6,3 +6,4 @@ A minimalist gothic scene where a pale moon floats above the darkness, tiny part
 drift through the night, and a faint burgundy glow breathes beneath the silence.
 
 *𝖯𝗒𝗍𝗁𝗈𝗇 • Pygame • 𝖦𝗈𝗍𝗁𝗂𝖼*
+![𝖘𝖈𝖗𝖊𝖊𝖓](screen.jpg)
